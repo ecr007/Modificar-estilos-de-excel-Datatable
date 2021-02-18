@@ -53,3 +53,5 @@ var table = $('#tabla_1').DataTable({
 			autoWidth : false
 		});
 	}
+```
+Fuente: https://datatables.net/reference/button/excelHtml5
